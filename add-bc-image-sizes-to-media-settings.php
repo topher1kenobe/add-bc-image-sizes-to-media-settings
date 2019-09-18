@@ -1,13 +1,12 @@
 <?php
 /*
-Plugin Name: Add Image Sizes To Media Settings
+Plugin Name: Add BigCommerce Image Sizes To Media Settings
 Plugin URI: 
-Description: 
+Description: Adds BigCommerce image dimension settings to Media Settings page in WordPress
 Version: 1.0
 Author: Topher
-Author URI: 
-License: 
-License URI: 
+License: GPLv3+
+License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 */
 
 /**
