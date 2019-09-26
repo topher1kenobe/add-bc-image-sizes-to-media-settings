@@ -35,6 +35,7 @@ class BC_Update_Image_Sizes {
         'thumb'  => 'bc-thumb',
         'small'  => 'bc-small',
         'medium' => 'bc-medium',
+        'large'  => 'bc-large',
     ];
 
     /**
